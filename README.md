@@ -1,237 +1,191 @@
 
+<!-- ═══════════════════════════════════════════
+     AMAL KRISHNA A | GITHUB PROFILE README
+     Theme: Omnitrix Green × AMOLED Black × White
+     ═══════════════════════════════════════════ -->
+
 <div align="center">
 
-<!-- ANIMATED HERO -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:000000,25:102A0A,55:4D8F13,80:9BEF35,100:000000&text=AMAL%20KRISHNA%20A&fontSize=54&fontColor=FFFFFF&fontAlignY=38&desc=PYTHON%20FULL%20STACK%20DEVELOPER&descSize=17&descColor=C8FF9B&descAlignY=58&animation=twinkling&stroke=8BCF39&strokeWidth=1"/>
+<!-- Animated Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:000000,30:102509,65:438C18,100:A4FF00&text=Amal%20Krishna%20A&fontSize=54&fontColor=FFFFFF&fontAlignY=38&desc=Python%20Developer%20%7C%20Backend%20%26%20AI&descSize=17&descColor=E0FFC4&descAlignY=58&animation=twinkling"/>
+
+<!-- Animated Typing -->
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2800&pause=900&color=A4FF00&center=true&vCenter=true&width=650&height=45&lines=Python+%7C+Django+%7C+FastAPI;Building+backend-driven+applications;Exploring+Generative+AI+%26+Agentic+Systems;Turning+complex+problems+into+software."/>
+</a>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=900&color=A8F04A&center=true&vCenter=true&width=700&height=55&lines=Building+backend+systems+with+Python.;Engineering+secure+REST+APIs.;Developing+AI-powered+applications.;From+requirements+to+deployment." />
-
-<br/>
-
-<a href="https://github.com/amal2k5">
-<img src="https://img.shields.io/badge/GITHUB-EXPLORE%20MY%20WORK-000000?style=for-the-badge&logo=github&logoColor=A4FF00&labelColor=000000"/>
-</a>
-&nbsp;
-<a href="mailto:connectamal2005@gmail.com">
-<img src="https://img.shields.io/badge/CONTACT-LET'S%20CONNECT-000000?style=for-the-badge&logo=gmail&logoColor=A4FF00&labelColor=000000"/>
-</a>
+<img src="https://img.shields.io/badge/BASED_IN-KERALA%2C%20INDIA-101510?style=flat-square&labelColor=101510&color=A4FF00"/>
+<img src="https://img.shields.io/badge/FOCUS-BACKEND%20ENGINEERING-101510?style=flat-square&labelColor=101510&color=A4FF00"/>
 
 </div>
 
-<br/>
-
-<!-- INTRODUCTION -->
-<h2 align="center">01 &nbsp; / &nbsp; THE DEVELOPER</h2>
-
-<p align="center">
-Python Full Stack Developer with hands-on experience building and deploying web applications.
-<br/>
-Focused on backend engineering, secure API development, and practical AI integrations.
-</p>
-
-<table align="center" border="0">
-<tr>
-<td width="50%" valign="top">
-
-**◈ WHAT I DO**
-
-- Develop RESTful APIs and backend services.
-- Implement secure authentication and access control.
-- Build full-stack applications.
-- Integrate payments and real-time notifications.
-- Deploy and maintain cloud applications.
-
-</td>
-<td width="50%" valign="top">
-
-**◈ CURRENT INTERESTS**
-
-- Backend architecture and scalability.
-- AI-powered application development.
-- NLP and semantic recommendations.
-- Database optimization.
-- Reliable application deployment.
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<!-- TECH STACK -->
-<h2 align="center">02 &nbsp; / &nbsp; TECHNOLOGY MATRIX</h2>
+---
 
 <div align="center">
 
-**LANGUAGES**
+## ◈ ABOUT ME
+
+</div>
+
+Python Full Stack Developer with hands-on experience developing web applications, secure APIs, and backend systems.
+
+Currently exploring the engineering behind LLM-powered applications and Agentic AI.
+
+- 🔭 Building full-stack applications and AI-powered features.
+- 🌱 Learning LLMs, RAG, embeddings, and Agentic AI.
+- 💬 Ask me about Python, Django, REST APIs, React, and PostgreSQL.
+- ⚡ Outside development: eFootball, films, and series.
+
+---
+
+<div align="center">
+
+## ◈ TECHNOLOGIES & TOOLS
+
+<sub>THE STACK I WORK WITH</sub>
+
+<br/><br/>
+
+### `01` — Languages
 
 <img src="https://skillicons.dev/icons?i=python,js,html,css&theme=dark" />
 
-<br/>
-
-**BACKEND ENGINEERING**
+### `02` — Backend Engineering
 
 <img src="https://skillicons.dev/icons?i=django,fastapi&theme=dark" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/Django_REST_Framework-101010?style=flat-square&logo=django&logoColor=A4FF00"/>
-<img src="https://img.shields.io/badge/REST_APIs-101010?style=flat-square&logo=fastapi&logoColor=A4FF00"/>
-<img src="https://img.shields.io/badge/JWT_Authentication-101010?style=flat-square&logo=jsonwebtokens&logoColor=A4FF00"/>
-<img src="https://img.shields.io/badge/OAuth_%7C_MFA_%7C_RBAC-101010?style=flat-square&logo=auth0&logoColor=A4FF00"/>
+<img src="https://img.shields.io/badge/Django_REST_Framework-101510?style=for-the-badge&logo=django&logoColor=A4FF00"/>
+<img src="https://img.shields.io/badge/REST_APIs-101510?style=for-the-badge&logo=fastapi&logoColor=A4FF00"/>
+<img src="https://img.shields.io/badge/JWT_Authentication-101510?style=for-the-badge&logo=jsonwebtokens&logoColor=A4FF00"/>
+<img src="https://img.shields.io/badge/OAuth_%7C_MFA_%7C_RBAC-101510?style=for-the-badge&logo=auth0&logoColor=A4FF00"/>
 
-<br/><br/>
-
-**DATABASE & BACKGROUND PROCESSING**
+### `03` — Database & Background Processing
 
 <img src="https://skillicons.dev/icons?i=postgres,sqlite,redis&theme=dark" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/Celery-101010?style=flat-square&logo=celery&logoColor=A4FF00"/>
-<img src="https://img.shields.io/badge/SQL_Optimization-101010?style=flat-square&logo=postgresql&logoColor=A4FF00"/>
+<img src="https://img.shields.io/badge/Celery-101510?style=for-the-badge&logo=celery&logoColor=A4FF00"/>
 
-<br/><br/>
-
-**FRONTEND**
+### `04` — Frontend
 
 <img src="https://skillicons.dev/icons?i=react,redux,tailwind&theme=dark" />
 
-<br/><br/>
+### `05` — Cloud & Deployment
 
-**CLOUD & DEPLOYMENT**
-
-<img src="https://skillicons.dev/icons?i=aws,docker,nginx,linux,git,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=aws,docker,nginx,linux&theme=dark" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/Gunicorn-101010?style=flat-square&logo=gunicorn&logoColor=A4FF00"/>
-<img src="https://img.shields.io/badge/Render-101010?style=flat-square&logo=render&logoColor=A4FF00"/>
-<img src="https://img.shields.io/badge/Railway-101010?style=flat-square&logo=railway&logoColor=A4FF00"/>
-<img src="https://img.shields.io/badge/Vercel-101010?style=flat-square&logo=vercel&logoColor=A4FF00"/>
+<img src="https://img.shields.io/badge/Gunicorn-101510?style=for-the-badge&logo=gunicorn&logoColor=A4FF00"/>
+<img src="https://img.shields.io/badge/Render-101510?style=for-the-badge&logo=render&logoColor=A4FF00"/>
+<img src="https://img.shields.io/badge/Railway-101510?style=for-the-badge&logo=railway&logoColor=A4FF00"/>
+<img src="https://img.shields.io/badge/Vercel-101510?style=for-the-badge&logo=vercel&logoColor=A4FF00"/>
 
-<br/><br/>
+### `06` — Integrations & Developer Tools
 
-**INTEGRATIONS & TOOLS**
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode&theme=dark" />
 
-<img src="https://img.shields.io/badge/Firebase_FCM-101010?style=flat-square&logo=firebase&logoColor=A4FF00"/>
-<img src="https://img.shields.io/badge/WebSockets-101010?style=flat-square&logo=socketdotio&logoColor=A4FF00"/>
-<img src="https://img.shields.io/badge/Razorpay-101010?style=flat-square&logo=razorpay&logoColor=A4FF00"/>
-<img src="https://img.shields.io/badge/Cloudinary-101010?style=flat-square&logo=cloudinary&logoColor=A4FF00"/>
-<img src="https://img.shields.io/badge/Postman-101010?style=flat-square&logo=postman&logoColor=A4FF00"/>
-<img src="https://img.shields.io/badge/Swagger-101010?style=flat-square&logo=swagger&logoColor=A4FF00"/>
+<br/>
+
+<img src="https://img.shields.io/badge/Firebase_FCM-101510?style=for-the-badge&logo=firebase&logoColor=A4FF00"/>
+<img src="https://img.shields.io/badge/WebSockets-101510?style=for-the-badge&logo=socketdotio&logoColor=A4FF00"/>
+<img src="https://img.shields.io/badge/Razorpay-101510?style=for-the-badge&logo=razorpay&logoColor=A4FF00"/>
+<img src="https://img.shields.io/badge/Cloudinary-101510?style=for-the-badge&logo=cloudinary&logoColor=A4FF00"/>
+<img src="https://img.shields.io/badge/Swagger-101510?style=for-the-badge&logo=swagger&logoColor=A4FF00"/>
 
 </div>
 
-<br/>
+---
 
-<!-- PROJECTS -->
-<h2 align="center">03 &nbsp; / &nbsp; SELECTED BUILDS</h2>
+<div align="center">
 
-<table width="100%">
+## ◈ SELECTED PROJECTS
+
+<sub>A FEW THINGS I'VE BUILT</sub>
+
+</div>
+
+<table>
 <tr>
 <td width="50%" valign="top">
 
-<h3>🎬 BingeKai</h3>
+<div align="center">
 
-**AI-Powered Movie Discovery Platform**
+### 🎬 BingeKai
 
-A movie review and recommendation platform with personalized discovery, NLP-based recommendations, and spoiler detection.
+<a href="https://github.com/amal2k5/BingeKai-Full-Stack-Project">
+<img src="https://img.shields.io/badge/VIEW_SOURCE-A4FF00?style=flat-square&logo=github&logoColor=000000"/>
+</a>
 
-**Core implementation**
+</div>
 
-- Sentence Transformers recommendations.
+A movie discovery and review platform with personalized recommendations and NLP-based spoiler detection.
+
+- Semantic movie recommendations.
 - Separate FastAPI AI service.
 - JWT, Google OAuth and MFA.
 - Redis caching and Celery tasks.
-- Reviews, watchlists and social features.
 
-**Stack**
-
-`React` `DRF` `FastAPI` `PostgreSQL` `Redis` `Celery`
-
-<a href="https://github.com/amal2k5/BingeKai-Full-Stack-Project">
-<img src="https://img.shields.io/badge/EXPLORE_PROJECT-A4FF00?style=for-the-badge&logo=github&logoColor=000000"/>
-</a>
+`React` `DRF` `FastAPI` `PostgreSQL`
 
 </td>
 <td width="50%" valign="top">
 
-<h3>🎓 College Academic Portal</h3>
+<div align="center">
 
-**Multi-Tenant SaaS ERP**
-
-A college management platform with hierarchical administration and academic workflows.
-
-**Core implementation**
-
-- Multi-tenant role-based architecture.
-- College and department management.
-- Razorpay payment integration.
-- FCM and WebSocket notifications.
-- Redis and Celery background processing.
-
-**Stack**
-
-`React` `DRF` `PostgreSQL` `Redis` `Celery` `FCM`
+### 🎓 College Academic Portal
 
 <a href="https://github.com/amal2k5/college-academic-portal">
-<img src="https://img.shields.io/badge/EXPLORE_PROJECT-A4FF00?style=for-the-badge&logo=github&logoColor=000000"/>
+<img src="https://img.shields.io/badge/VIEW_SOURCE-A4FF00?style=flat-square&logo=github&logoColor=000000"/>
 </a>
 
-<sub>Group project · Major module and integration contributions</sub>
+</div>
+
+Multi-tenant academic management platform with hierarchical roles and integrated college workflows.
+
+- Platform, college, HOD and student roles.
+- Razorpay payment integration.
+- FCM and WebSocket notifications.
+- Redis and Celery background tasks.
+
+`React` `Django REST` `PostgreSQL` `FCM`
 
 </td>
 </tr>
 </table>
 
-<br/>
-
-<!-- EXPERIENCE -->
-<h2 align="center">04 &nbsp; / &nbsp; EXPERIENCE</h2>
+---
 
 <div align="center">
 
-**PYTHON FULL STACK DEVELOPER INTERN**
+## ◈ CURRENTLY EXPLORING
 
-Bridgeon Solutions · Kochi, India
+<img src="https://img.shields.io/badge/LLM_FUNDAMENTALS-101510?style=flat-square&logo=openai&logoColor=A4FF00"/>
+<img src="https://img.shields.io/badge/EMBEDDINGS-101510?style=flat-square&logo=databricks&logoColor=A4FF00"/>
+<img src="https://img.shields.io/badge/RAG_SYSTEMS-101510?style=flat-square&logo=googlegemini&logoColor=A4FF00"/>
+<img src="https://img.shields.io/badge/TOOL_CALLING-101510?style=flat-square&logo=openai&logoColor=A4FF00"/>
+<img src="https://img.shields.io/badge/AGENTIC_AI-101510?style=flat-square&logo=probot&logoColor=A4FF00"/>
 
-`July 2025 – Present`
+<br/><br/>
+
+*Software engineering meets artificial intelligence.*
 
 </div>
 
-- Developed and maintained Django REST Framework APIs for authentication, user management, payments, and business workflows.
-- Implemented JWT, RBAC, Google OAuth, and MFA.
-- Optimized PostgreSQL queries and backend performance.
-- Participated in Agile sprint planning, debugging, code reviews, and API integration.
-- Deployed applications using AWS EC2, Render, Railway, Gunicorn, and Nginx.
-
-<br/>
-
-<!-- EDUCATION -->
-<h2 align="center">05 &nbsp; / &nbsp; EDUCATION</h2>
+---
 
 <div align="center">
 
-**B.Sc. Physics** 
+<!-- Animated Footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:A4FF00,45:356D12,75:102509,100:000000&height=130&section=footer&animation=twinkling"/>
 
-NSS College Nemmara · 2022–2025
+**BUILD. LEARN. IMPROVE.**
 
-CGPA: 7.5 / 10
-
-</div>
-
-<br/>
-
-<!-- FOOTER -->
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,35:173A0A,70:70B82C,100:A4FF00&height=120&section=footer&animation=twinkling"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3000&pause=1200&color=A4FF00&center=true&vCenter=true&width=500&height=35&lines=Build+with+purpose.;Keep+learning.;Make+it+work.+Make+it+better."/>
-
-<sub>AMAL KRISHNA A · SOFTWARE ENGINEERING</sub>
+<sub>Designed by Amal Krishna A</sub>
 
 </div>
