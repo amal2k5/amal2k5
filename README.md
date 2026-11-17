@@ -1,75 +1,147 @@
+
 <div align="center">
 
-<!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:10b981,100:0d1117&height=200&section=header&text=Amal%20Krishna%20A&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20Full-Stack%20%26%20GenAI%20Engineer&descAlignY=58&descSize=18" width="100%"/>
+<!-- OMNITRIX HEADER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:173800,75:70B900,100:A4FF00&height=210&section=header&text=AMAL%20KRISHNA%20A&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=PYTHON%20DEVELOPER%20%7C%20BACKEND%20%26%20AI%20ENGINEERING&descSize=14&descColor=E4FFD0&descAlignY=59&animation=fadeIn"/>
 
-<!-- Typing SVG -->
+<!-- ANIMATED INTRO -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=10B981&center=true&vCenter=true&width=600&lines=Building+scalable+backends+with+Python+%26+FastAPI;Exploring+LLMs%2C+RAG+%26+Agentic+AI+workflows;B.Sc.+Physics+Grad+%E2%86%92+Software+Engineer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3500&pause=1000&color=A4FF00&center=true&vCenter=true&width=650&height=45&lines=Designing+and+building+with+Python.;Engineering+APIs+and+backend+systems.;Exploring+LLMs%2C+RAG+%26+Agentic+AI.;Turning+ideas+into+working+software." alt="Typing SVG"/>
 </a>
 
+<br/>
+
+<img src="https://img.shields.io/github/followers/amal2k5?style=flat-square&logo=github&label=FOLLOWERS&color=A4FF00&labelColor=080808" />
+<img src="https://komarev.com/ghpvc/?username=amal2k5&style=flat-square&color=A4FF00&label=PROFILE+VIEWS" />
+
+</div>
+
+---
+
+## `01 / ABOUT`
+
+Python developer focused on backend engineering, API development, and practical AI applications.
+
+- 🔭 Building full-stack applications and experimenting with AI-powered features.
+- ⚙️ Working with Python, Django, FastAPI, REST APIs, and PostgreSQL.
+- 🧠 Currently studying LLMs, RAG pipelines, and Agentic AI systems.
+- 🎓 B.Sc. Physics graduate with an interest in software engineering.
+- 💬 Topics: Python, backend architecture, API design, and AI engineering.
+- ⚡ Outside code: eFootball, cinema, and series.
+
+---
+
+## `02 / TECH ARSENAL`
+
+**BACKEND & DATABASES**
+
 <p>
-  <a href="https://github.com/amal2k5?tab=followers">
-    <img src="https://img.shields.io/github/followers/amal2k5?label=Followers&style=for-the-badge&color=10b981&labelColor=0d1117" alt="Followers"/>
-  </a>
-  <a href="https://komarev.com/ghpvc/?username=amal2k5">
-    <img src="https://komarev.com/ghpvc/?username=amal2k5&style=for-the-badge&color=10b981&label=PROFILE+VIEWS" alt="Profile Views"/>
-  </a>
+<img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,redis,sqlite&theme=dark" />
 </p>
 
+**AI & MACHINE LEARNING**
+
+<p>
+<img src="https://skillicons.dev/icons?i=pytorch&theme=dark" />
+<img src="https://img.shields.io/badge/OpenAI_API-000000?style=for-the-badge&logo=openai&logoColor=A4FF00"/>
+<img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=A4FF00"/>
+<img src="https://img.shields.io/badge/Hugging_Face-000000?style=for-the-badge&logo=huggingface&logoColor=A4FF00"/>
+</p>
+
+**FRONTEND**
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,redux,js,html,css,tailwind&theme=dark" />
+</p>
+
+**INFRASTRUCTURE & TOOLS**
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,aws,nginx,linux,git,github,vscode&theme=dark" />
+</p>
+
+---
+
+## `03 / SELECTED PROJECTS`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎬 BingeKai
+
+Movie discovery, reviews, and recommendation platform with semantic recommendations and spoiler detection.
+
+**Stack**
+
+`React` `Django REST` `FastAPI` `PostgreSQL` `Redis`
+
+<a href="https://github.com/amal2k5/BingeKai-Full-Stack-Project">
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-A4FF00?style=flat-square&logo=github&logoColor=000000"/>
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🎓 College Academic Portal
+
+Multi-tenant academic management platform with role-based access, notifications, and payment integration.
+
+**Stack**
+
+`React` `Django REST` `PostgreSQL` `Celery` `FCM`
+
+<a href="https://github.com/amal2k5/college-academic-portal">
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-A4FF00?style=flat-square&logo=github&logoColor=000000"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+---
+
+## `04 / CURRENT RESEARCH`
+
+**AGENTIC AI ENGINEERING**
+
+Currently exploring the engineering behind LLM-powered applications.
+
+- LLM fundamentals and inference
+- Embeddings and vector search
+- Retrieval-Augmented Generation (RAG)
+- Tool calling and agent workflows
+- LangChain and LangGraph
+- Memory, MCP, and multi-agent systems
+
+---
+
+## `05 / GITHUB ACTIVITY`
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=amal2k5&show_icons=true&hide_border=true&bg_color=000000&title_color=A4FF00&icon_color=00E676&text_color=FFFFFF&rank_icon=github" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amal2k5&layout=compact&hide_border=true&bg_color=000000&title_color=A4FF00&text_color=FFFFFF&langs_count=8" />
+
+<br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=amal2k5&theme=dark&hide_border=true&background=000000&ring=A4FF00&fire=00E676&currStreakLabel=A4FF00&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888"/>
+
+<br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=amal2k5&bg_color=000000&color=A4FF00&line=00E676&point=FFFFFF&area=true&area_color=173800&hide_border=true&custom_title=Contribution%20Activity"/>
+
 </div>
 
 ---
 
-### 🧑‍💻 About Me
-- 🔭 Currently building **AI-powered web applications** and upskilling in **Generative AI & RAG systems**.
-- 💻 **Python Full-Stack Developer** experienced in designing RESTful APIs, async backends, and clean React frontends.
-- 🎓 **B.Sc. Physics** graduate from Kerala, India — approaching software engineering from first principles.
-- ⚡ Fun fact: When I'm not debugging APIs, you'll find me grinding eFootball or exploring cinema.
-
----
-
-### 🛠️ Tech Stack
-
-**Backend & Databases**  
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=10b981)
-![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=10b981)
-![Django](https://img.shields.io/badge/Django_REST-0d1117?style=for-the-badge&logo=django&logoColor=10b981)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=10b981)
-![Redis](https://img.shields.io/badge/Redis-0d1117?style=for-the-badge&logo=redis&logoColor=10b981)
-![Celery](https://img.shields.io/badge/Celery-0d1117?style=for-the-badge&logo=celery&logoColor=10b981)
-
-**AI & LLM Engineering**  
-![OpenAI](https://img.shields.io/badge/OpenAI_API-0d1117?style=for-the-badge&logo=openai&logoColor=10b981)
-![LangChain](https://img.shields.io/badge/LangChain-0d1117?style=for-the-badge&logo=chainlink&logoColor=10b981)
-![HuggingFace](https://img.shields.io/badge/Sentence_Transformers-0d1117?style=for-the-badge&logo=huggingface&logoColor=10b981)
-
-**Frontend & DevOps**  
-![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=10b981)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=10b981)
-![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=10b981)
-![AWS](https://img.shields.io/badge/AWS_EC2-0d1117?style=for-the-badge&logo=amazonaws&logoColor=10b981)
-![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=10b981)
-
----
-
-### 🚀 Featured Projects
-
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **🎬 BingeKai** | AI-powered movie review & recommendation platform with NLP spoiler detection. | `React` `DRF` `FastAPI` `PostgreSQL` `Redis` |
-| **🎓 College Academic Portal** | Multi-tenant SaaS ERP system with real-time WebSockets, FCM alerts & payments. | `React` `Django` `PostgreSQL` `Celery` `WebSockets` |
-| **🛒 Celestials** | Full-stack e-commerce web application with JWT authentication & order workflows. | `React` `DRF` `PostgreSQL` `JWT` |
-
----
-
-### 📊 GitHub Stats
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amal2k5&show_icons=true&bg_color=0d1117&title_color=10b981&icon_color=10b981&text_color=c9d1d9&border_color=10b981" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amal2k5&layout=compact&bg_color=0d1117&title_color=10b981&text_color=c9d1d9&border_color=10b981" height="165" />
-</div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amal2k5&background=0d1117&ring=10b981&fire=10b981&currStreakLabel=10b981&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e&border=10b981" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A4FF00,50:173800,100:000000&height=100&section=footer"/>
+
+**ENGINEER. EXPERIMENT. REPEAT.**
+
+<sub>Built with code, curiosity, and consistency.</sub>
+
 </div>
