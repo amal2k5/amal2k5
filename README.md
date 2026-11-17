@@ -1,205 +1,266 @@
-<!-- ═══════════════════════════════════════════════════════
-     AMAL KRISHNA A — GitHub Profile README
-     Theme: Aurora Terminal · Dark Glass · Gradient Accents
-     ═══════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════
+     AMAL KRISHNA A · GitHub Profile
+     Design: Obsidian × Neon · Editorial Layout
+     ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<!-- ─── Aurora Header ─── -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=6,11,20&text=Amal%20Krishna%20A&fontSize=58&fontColor=ffffff&fontAlignY=36&desc=Python%20Developer%20%E2%80%A2%20Backend%20%26%20AI%20Engineer&descSize=18&descAlignY=58&descAlign=50&animation=twinkling" />
+<br/>
 
-<!-- ─── Terminal Intro ─── -->
-<a href="https://github.com/amal2k5">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=800&color=7DF9FF&center=true&vCenter=true&width=680&height=50&lines=%24+whoami+%E2%86%92+python+%7C+django+%7C+fastapi;%24+building+%E2%86%92+backend+systems+%2B+agentic+AI;%24+mission+%E2%86%92+ship+clean%2C+scalable+software;%24+status+%E2%86%92+open+to+collaboration" />
+# ⬢ AMAL KRISHNA A
+
+<sub><code>PYTHON · BACKEND · AI ENGINEERING</code></sub>
+
+<br/>
+
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2600&pause=900&color=00E5FF&center=true&vCenter=true&width=520&height=30&lines=Building+backend-driven+systems;Exploring+LLMs+%26+agentic+AI;Turning+complexity+into+clean+software" />
 </a>
 
 <br/>
 
-<!-- ─── Status Pills ─── -->
-<img src="https://img.shields.io/badge/%E2%97%8F%20AVAILABLE%20FOR%20WORK-0d1117?style=for-the-badge&labelColor=0d1117&color=7DF9FF" />
-<img src="https://img.shields.io/badge/%E2%97%8F%20KERALA%2C%20INDIA-0d1117?style=for-the-badge&labelColor=0d1117&color=A78BFA" />
-<img src="https://img.shields.io/badge/%E2%97%8F%20BACKEND%20%26%20AI-0d1117?style=for-the-badge&labelColor=0d1117&color=34D399" />
+<img src="https://img.shields.io/badge/●%20OPEN%20TO%20WORK-0a0a0f?style=flat-square&labelColor=0a0a0f&color=00E5FF" />
+&nbsp;
+<img src="https://img.shields.io/badge/●%20KERALA%2C%20INDIA-0a0a0f?style=flat-square&labelColor=0a0a0f&color=C4B5FD" />
+&nbsp;
+<img src="https://img.shields.io/badge/●%20BACKEND%20%26%20AI-0a0a0f?style=flat-square&labelColor=0a0a0f&color=FF3D71" />
+
+<br/><br/>
 
 </div>
 
 ---
 
-<!-- ─── About ─── -->
+<br/>
+
 <div align="center">
 
-### `⟩` ABOUT
+## `001`&nbsp;&nbsp;PROFILE
 
 </div>
 
+<br/>
+
+> Python full-stack developer focused on **secure APIs**, **scalable backends**, and **AI-integrated features**. I build systems that hold up under load and code that holds up under review.
+>
+> Currently exploring the engineering frontier of **LLM applications, retrieval pipelines, and agentic workflows** — where software engineering meets intelligence.
+
+<br/>
+
 <table>
 <tr>
-<td width="55%" valign="top">
+<td width="33%" valign="top">
 
-> **Python Full Stack Developer** engineering secure APIs, scalable backends, and AI-powered features.
->
-> Currently exploring **LLM applications, RAG pipelines, and Agentic AI** — where software engineering meets intelligence.
-
-**🌱 Currently learning**
-- LLM fundamentals · Embeddings · RAG
-- Tool calling · Agentic workflows
-
-**💬 Ask me about**
-- Python · Django · FastAPI
-- REST APIs · PostgreSQL · React
-
-**⚡ Off-screen**
-eFootball · films · series
+**🌱&nbsp; LEARNING**
+<sub>LLM fundamentals · Embeddings · RAG · Tool calling · Agentic AI</sub>
 
 </td>
-<td width="45%" valign="top" align="center">
+<td width="33%" valign="top">
 
-<img src="https://github-readme-stats.vercel.app/api?username=amal2k5&show_icons=true&hide_border=true&bg_color=0d1117&title_color=7DF9FF&icon_color=A78BFA&text_color=c9d1d9&include_all_commits=true&count_private=true" width="100%" />
+**💬&nbsp; DISCUSS WITH ME**
+<sub>Python · Django · FastAPI · REST APIs · PostgreSQL · React</sub>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=amal2k5&hide_border=true&background=0d1117&stroke=7DF9FF&ring=A78BFA&fire=34D399&currStreakLabel=7DF9FF&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" width="100%" />
+</td>
+<td width="34%" valign="top">
+
+**⚡&nbsp; OFF-SCREEN**
+<sub>eFootball · films · series</sub>
 
 </td>
 </tr>
 </table>
 
+<br/>
+
 ---
 
-<!-- ─── Tech Stack ─── -->
+<br/>
+
 <div align="center">
 
-### `⟩` TECH ARSENAL
+## `002`&nbsp;&nbsp;STACK
 
-<sub>AURORA-GRADIENT · DARK GLASS</sub>
+<sub>THE TOOLS I SHIP WITH</sub>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+**`LANGUAGES`**
+
+<img src="https://img.shields.io/badge/Python-0a0a0f?style=flat-square&logo=python&logoColor=00E5FF" />
+<img src="https://img.shields.io/badge/JavaScript-0a0a0f?style=flat-square&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/HTML5-0a0a0f?style=flat-square&logo=html5&logoColor=E34F26" />
+<img src="https://img.shields.io/badge/CSS3-0a0a0f?style=flat-square&logo=css3&logoColor=1572B6" />
 
 <br/><br/>
 
-**Languages**
+**`BACKEND`**
 
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=7DF9FF)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=1572B6)
+<img src="https://img.shields.io/badge/Django-0a0a0f?style=flat-square&logo=django&logoColor=C4B5FD" />
+<img src="https://img.shields.io/badge/FastAPI-0a0a0f?style=flat-square&logo=fastapi&logoColor=C4B5FD" />
+<img src="https://img.shields.io/badge/Django_REST-0a0a0f?style=flat-square&logo=django&logoColor=FF3D71" />
+<img src="https://img.shields.io/badge/REST_APIs-0a0a0f?style=flat-square&logo=fastapi&logoColor=FF3D71" />
+<img src="https://img.shields.io/badge/JWT-0a0a0f?style=flat-square&logo=jsonwebtokens&logoColor=00E5FF" />
+<img src="https://img.shields.io/badge/OAuth-0a0a0f?style=flat-square&logo=auth0&logoColor=00E5FF" />
+<img src="https://img.shields.io/badge/MFA-0a0a0f?style=flat-square&logo=auth0&logoColor=00E5FF" />
+<img src="https://img.shields.io/badge/RBAC-0a0a0f?style=flat-square&logo=auth0&logoColor=00E5FF" />
 
-**Backend**
+<br/><br/>
 
-![Django](https://img.shields.io/badge/Django-0d1117?style=for-the-badge&logo=django&logoColor=34D399)
-![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=34D399)
-![DRF](https://img.shields.io/badge/DRF-0d1117?style=for-the-badge&logo=django&logoColor=A78BFA)
-![REST](https://img.shields.io/badge/REST_APIs-0d1117?style=for-the-badge&logo=fastapi&logoColor=A78BFA)
-![JWT](https://img.shields.io/badge/JWT-0d1117?style=for-the-badge&logo=jsonwebtokens&logoColor=FBBF24)
-![OAuth](https://img.shields.io/badge/OAuth_%7C_MFA_%7C_RBAC-0d1117?style=for-the-badge&logo=auth0&logoColor=FBBF24)
+**`DATA`**
 
-**Data & Queues**
+<img src="https://img.shields.io/badge/PostgreSQL-0a0a0f?style=flat-square&logo=postgresql&logoColor=C4B5FD" />
+<img src="https://img.shields.io/badge/Redis-0a0a0f?style=flat-square&logo=redis&logoColor=FF3D71" />
+<img src="https://img.shields.io/badge/Celery-0a0a0f?style=flat-square&logo=celery&logoColor=00E5FF" />
+<img src="https://img.shields.io/badge/SQLite-0a0a0f?style=flat-square&logo=sqlite&logoColor=C4B5FD" />
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=7DF9FF)
-![SQLite](https://img.shields.io/badge/SQLite-0d1117?style=for-the-badge&logo=sqlite&logoColor=7DF9FF)
-![Redis](https://img.shields.io/badge/Redis-0d1117?style=for-the-badge&logo=redis&logoColor=EF4444)
-![Celery](https://img.shields.io/badge/Celery-0d1117?style=for-the-badge&logo=celery&logoColor=34D399)
+<br/><br/>
 
-**Frontend**
+**`FRONTEND`**
 
-![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux-0d1117?style=for-the-badge&logo=redux&logoColor=764ABC)
-![Tailwind](https://img.shields.io/badge/Tailwind-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8)
+<img src="https://img.shields.io/badge/React-0a0a0f?style=flat-square&logo=react&logoColor=00E5FF" />
+<img src="https://img.shields.io/badge/Redux-0a0a0f?style=flat-square&logo=redux&logoColor=C4B5FD" />
+<img src="https://img.shields.io/badge/Tailwind-0a0a0f?style=flat-square&logo=tailwindcss&logoColor=00E5FF" />
 
-**Cloud & DevOps**
+<br/><br/>
 
-![AWS](https://img.shields.io/badge/AWS-0d1117?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
-![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED)
-![Nginx](https://img.shields.io/badge/Nginx-0d1117?style=for-the-badge&logo=nginx&logoColor=009639)
-![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=FCC624)
-![Gunicorn](https://img.shields.io/badge/Gunicorn-0d1117?style=for-the-badge&logo=gunicorn&logoColor=499848)
-![Render](https://img.shields.io/badge/Render-0d1117?style=for-the-badge&logo=render&logoColor=46E3B7)
-![Railway](https://img.shields.io/badge/Railway-0d1117?style=for-the-badge&logo=railway&logoColor=A78BFA)
-![Vercel](https://img.shields.io/badge/Vercel-0d1117?style=for-the-badge&logo=vercel&logoColor=ffffff)
+**`CLOUD & DEPLOY`**
 
-**Integrations & Tools**
+<img src="https://img.shields.io/badge/AWS-0a0a0f?style=flat-square&logo=amazonaws&logoColor=FF9900" />
+<img src="https://img.shields.io/badge/Docker-0a0a0f?style=flat-square&logo=docker&logoColor=2496ED" />
+<img src="https://img.shields.io/badge/Nginx-0a0a0f?style=flat-square&logo=nginx&logoColor=009639" />
+<img src="https://img.shields.io/badge/Linux-0a0a0f?style=flat-square&logo=linux&logoColor=FCC624" />
+<img src="https://img.shields.io/badge/Gunicorn-0a0a0f?style=flat-square&logo=gunicorn&logoColor=C4B5FD" />
+<img src="https://img.shields.io/badge/Render-0a0a0f?style=flat-square&logo=render&logoColor=00E5FF" />
+<img src="https://img.shields.io/badge/Railway-0a0a0f?style=flat-square&logo=railway&logoColor=C4B5FD" />
+<img src="https://img.shields.io/badge/Vercel-0a0a0f?style=flat-square&logo=vercel&logoColor=FFFFFF" />
 
-![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff)
-![Postman](https://img.shields.io/badge/Postman-0d1117?style=for-the-badge&logo=postman&logoColor=FF6C37)
-![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
-![Firebase](https://img.shields.io/badge/FCM-0d1117?style=for-the-badge&logo=firebase&logoColor=FFCA28)
-![WebSockets](https://img.shields.io/badge/WebSockets-0d1117?style=for-the-badge&logo=socketdotio&logoColor=ffffff)
-![Razorpay](https://img.shields.io/badge/Razorpay-0d1117?style=for-the-badge&logo=razorpay&logoColor=0C2451)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-0d1117?style=for-the-badge&logo=cloudinary&logoColor=3448C5)
-![Swagger](https://img.shields.io/badge/Swagger-0d1117?style=for-the-badge&logo=swagger&logoColor=85EA2D)
+<br/><br/>
+
+**`INTEGRATIONS`**
+
+<img src="https://img.shields.io/badge/Git-0a0a0f?style=flat-square&logo=git&logoColor=F05032" />
+<img src="https://img.shields.io/badge/GitHub-0a0a0f?style=flat-square&logo=github&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/Postman-0a0a0f?style=flat-square&logo=postman&logoColor=FF6C37" />
+<img src="https://img.shields.io/badge/VS_Code-0a0a0f?style=flat-square&logo=visualstudiocode&logoColor=007ACC" />
+<img src="https://img.shields.io/badge/FCM-0a0a0f?style=flat-square&logo=firebase&logoColor=FFCA28" />
+<img src="https://img.shields.io/badge/WebSockets-0a0a0f?style=flat-square&logo=socketdotio&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/Razorpay-0a0a0f?style=flat-square&logo=razorpay&logoColor=3395FF" />
+<img src="https://img.shields.io/badge/Cloudinary-0a0a0f?style=flat-square&logo=cloudinary&logoColor=3448C5" />
+<img src="https://img.shields.io/badge/Swagger-0a0a0f?style=flat-square&logo=swagger&logoColor=85EA2D" />
 
 </div>
+
+<br/>
 
 ---
 
-<!-- ─── Projects ─── -->
+<br/>
+
 <div align="center">
 
-### `⟩` FEATURED BUILDS
-
-<sub>SELECTED WORK · ENGINEERING HIGHLIGHTS</sub>
+## `003`&nbsp;&nbsp;SELECTED WORK
 
 </div>
+
+<br/>
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
-<div align="center">
+<br/>
 
-#### 🎬 BingeKai
+### 🎬 &nbsp;BingeKai
 
-<a href="https://github.com/amal2k5/BingeKai-Full-Stack-Project">
-<img src="https://img.shields.io/badge/VIEW_SOURCE-0d1117?style=for-the-badge&logo=github&logoColor=7DF9FF" />
-</a>
+<sub><code>MOVIE DISCOVERY PLATFORM</code></sub>
 
-</div>
+<br/><br/>
 
-Movie discovery & review platform with **semantic recommendations** and **NLP-based spoiler detection**.
+A movie discovery and review platform with **semantic recommendations** and **NLP-based spoiler detection**.
 
-- 🧠 FastAPI AI microservice
-- 🔐 JWT · Google OAuth · MFA
-- ⚡ Redis cache · Celery tasks
+<br/>
+
+| Feature | Detail |
+|---|---|
+| 🧠 AI Layer | Separate FastAPI microservice |
+| 🔐 Auth | JWT · Google OAuth · MFA |
+| ⚡ Perf | Redis cache · Celery tasks |
+
+<br/>
 
 `React` · `DRF` · `FastAPI` · `PostgreSQL`
 
-</td>
-<td width="50%" valign="top">
+<br/>
 
-<div align="center">
-
-#### 🎓 College Academic Portal
-
-<a href="https://github.com/amal2k5/college-academic-portal">
-<img src="https://img.shields.io/badge/VIEW_SOURCE-0d1117?style=for-the-badge&logo=github&logoColor=A78BFA" />
+<a href="https://github.com/amal2k5/BingeKai-Full-Stack-Project">
+<img src="https://img.shields.io/badge/VIEW_SOURCE-0a0a0f?style=for-the-badge&logo=github&logoColor=00E5FF" />
 </a>
 
-</div>
-
-**Multi-tenant** academic platform with hierarchical roles and integrated college workflows.
-
-- 🏛️ Platform · College · HOD · Student
-- 💳 Razorpay payments
-- 🔔 FCM · WebSocket live notifications
-
-`React` · `DRF` · `PostgreSQL` · `FCM`
-
 </td>
-</tr>
-</table>
 
----
+<td width="50%" valign="top">
 
-<!-- ─── Currently Exploring ─── -->
-<div align="center">
+<br/>
 
-### `⟩` CURRENTLY EXPLORING
+### 🎓 &nbsp;College Portal
 
-<sub>AI-ENGINEERING FRONTIER</sub>
+<sub><code>MULTI-TENANT ACADEMIC SYSTEM</code></sub>
 
 <br/><br/>
 
-![LLM](https://img.shields.io/badge/LLM_FUNDAMENTALS-0d1117?style=for-the-badge&logo=openai&logoColor=7DF9FF)
-![Embeddings](https://img.shields.io/badge/EMBEDDINGS-0d1117?style=for-the-badge&logo=databricks&logoColor=A78BFA)
-![RAG](https://img.shields.io/badge/RAG_SYSTEMS-0d1117?style=for-the-badge&logo=googlegemini&logoColor=34D399)
-![Tool Calling](https://img.shields.io/badge/TOOL_CALLING-0d1117?style=for-the-badge&logo=openai&logoColor=FBBF24)
-![Agentic AI](https://img.shields.io/badge/AGENTIC_AI-0d1117?style=for-the-badge&logo=probot&logoColor=7DF9FF)
+**Multi-tenant** academic management platform with hierarchical roles and integrated college workflows.
+
+<br/>
+
+| Feature | Detail |
+|---|---|
+| 🏛️ Roles | Platform · College · HOD · Student |
+| 💳 Payments | Razorpay integration |
+| 🔔 Realtime | FCM · WebSocket notifications |
+
+<br/>
+
+`React` · `DRF` · `PostgreSQL` · `FCM`
+
+<br/>
+
+<a href="https://github.com/amal2k5/college-academic-portal">
+<img src="https://img.shields.io/badge/VIEW_SOURCE-0a0a0f?style=for-the-badge&logo=github&logoColor=C4B5FD" />
+</a>
+
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
+
+## `004`&nbsp;&nbsp;CURRENTLY EXPLORING
+
+<sub>AI ENGINEERING FRONTIER</sub>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/LLM_FUNDAMENTALS-0a0a0f?style=flat-square&logo=openai&logoColor=00E5FF" />
+&nbsp;
+<img src="https://img.shields.io/badge/EMBEDDINGS-0a0a0f?style=flat-square&logo=databricks&logoColor=C4B5FD" />
+&nbsp;
+<img src="https://img.shields.io/badge/RAG_SYSTEMS-0a0a0f?style=flat-square&logo=googlegemini&logoColor=FF3D71" />
+&nbsp;
+<img src="https://img.shields.io/badge/TOOL_CALLING-0a0a0f?style=flat-square&logo=openai&logoColor=00E5FF" />
+&nbsp;
+<img src="https://img.shields.io/badge/AGENTIC_AI-0a0a0f?style=flat-square&logo=probot&logoColor=C4B5FD" />
 
 <br/><br/>
 
@@ -207,34 +268,46 @@ Movie discovery & review platform with **semantic recommendations** and **NLP-ba
 
 </div>
 
+<br/>
+
 ---
 
-<!-- ─── Connect ─── -->
+<br/>
+
 <div align="center">
 
-### `⟩` CONNECT
+## `005`&nbsp;&nbsp;CONNECT
+
+<br/><br/>
 
 <a href="https://github.com/amal2k5">
-<img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff" />
+<img src="https://img.shields.io/badge/GitHub-0a0a0f?style=for-the-badge&logo=github&logoColor=00E5FF" />
 </a>
+&nbsp;
 <a href="mailto:your.email@example.com">
-<img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+<img src="https://img.shields.io/badge/Email-0a0a0f?style=for-the-badge&logo=gmail&logoColor=FF3D71" />
 </a>
+&nbsp;
 <a href="https://linkedin.com/in/your-profile">
-<img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+<img src="https://img.shields.io/badge/LinkedIn-0a0a0f?style=for-the-badge&logo=linkedin&logoColor=C4B5FD" />
 </a>
 
 </div>
 
+<br/><br/>
+
 ---
 
-<!-- ─── Footer ─── -->
+<br/>
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=140&section=footer&animation=twinkling" />
+<sub><code>BUILD · LEARN · IMPROVE</code></sub>
 
-**BUILD · LEARN · IMPROVE**
+<br/><br/>
 
-<sub>Crafted by <b>Amal Krishna A</b></sub>
+<sub>Designed by <b>Amal Krishna A</b></sub>
+
+<br/><br/>
 
 </div>
