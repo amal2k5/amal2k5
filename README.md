@@ -1,23 +1,21 @@
-
 <!-- ═══════════════════════════════════════════
      AMAL KRISHNA A | GITHUB PROFILE README
      Theme: Omnitrix Green × AMOLED Black × White
+     Optimized for reliability (no unstable dynamic images)
      ═══════════════════════════════════════════ -->
 
 <div align="center">
 
-<!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:000000,30:102509,65:438C18,100:A4FF00&text=Amal%20Krishna%20A&fontSize=54&fontColor=FFFFFF&fontAlignY=38&desc=Python%20Developer%20%7C%20Backend%20%26%20AI&descSize=17&descColor=E0FFC4&descAlignY=58&animation=twinkling"/>
+# Amal Krishna A
 
-<!-- Animated Typing -->
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2800&pause=900&color=A4FF00&center=true&vCenter=true&width=650&height=45&lines=Python+%7C+Django+%7C+FastAPI;Building+backend-driven+applications;Exploring+Generative+AI+%26+Agentic+Systems;Turning+complex+problems+into+software."/>
-</a>
+**Python Developer · Backend & AI**
+
+*Building backend-driven applications · Exploring Generative AI & Agentic Systems*
 
 <br/>
 
-<img src="https://img.shields.io/badge/BASED_IN-KERALA%2C%20INDIA-101510?style=flat-square&labelColor=101510&color=A4FF00"/>
-<img src="https://img.shields.io/badge/FOCUS-BACKEND%20ENGINEERING-101510?style=flat-square&labelColor=101510&color=A4FF00"/>
+![Location](https://img.shields.io/badge/BASED_IN-KERALA%2C%20INDIA-101510?style=flat-square&labelColor=101510&color=A4FF00)
+![Focus](https://img.shields.io/badge/FOCUS-BACKEND%20ENGINEERING-101510?style=flat-square&labelColor=101510&color=A4FF00)
 
 </div>
 
@@ -50,53 +48,55 @@ Currently exploring the engineering behind LLM-powered applications and Agentic 
 
 ### `01` — Languages
 
-<img src="https://skillicons.dev/icons?i=python,js,html,css&theme=dark" />
+![Python](https://img.shields.io/badge/Python-101510?style=for-the-badge&logo=python&logoColor=A4FF00)
+![JavaScript](https://img.shields.io/badge/JavaScript-101510?style=for-the-badge&logo=javascript&logoColor=A4FF00)
+![HTML5](https://img.shields.io/badge/HTML5-101510?style=for-the-badge&logo=html5&logoColor=A4FF00)
+![CSS3](https://img.shields.io/badge/CSS3-101510?style=for-the-badge&logo=css3&logoColor=A4FF00)
 
 ### `02` — Backend Engineering
 
-<img src="https://skillicons.dev/icons?i=django,fastapi&theme=dark" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/Django_REST_Framework-101510?style=for-the-badge&logo=django&logoColor=A4FF00"/>
-<img src="https://img.shields.io/badge/REST_APIs-101510?style=for-the-badge&logo=fastapi&logoColor=A4FF00"/>
-<img src="https://img.shields.io/badge/JWT_Authentication-101510?style=for-the-badge&logo=jsonwebtokens&logoColor=A4FF00"/>
-<img src="https://img.shields.io/badge/OAuth_%7C_MFA_%7C_RBAC-101510?style=for-the-badge&logo=auth0&logoColor=A4FF00"/>
+![Django](https://img.shields.io/badge/Django-101510?style=for-the-badge&logo=django&logoColor=A4FF00)
+![FastAPI](https://img.shields.io/badge/FastAPI-101510?style=for-the-badge&logo=fastapi&logoColor=A4FF00)
+![DRF](https://img.shields.io/badge/Django_REST_Framework-101510?style=for-the-badge&logo=django&logoColor=A4FF00)
+![REST APIs](https://img.shields.io/badge/REST_APIs-101510?style=for-the-badge&logo=fastapi&logoColor=A4FF00)
+![JWT](https://img.shields.io/badge/JWT_Authentication-101510?style=for-the-badge&logo=jsonwebtokens&logoColor=A4FF00)
+![OAuth](https://img.shields.io/badge/OAuth_%7C_MFA_%7C_RBAC-101510?style=for-the-badge&logo=auth0&logoColor=A4FF00)
 
 ### `03` — Database & Background Processing
 
-<img src="https://skillicons.dev/icons?i=postgres,sqlite,redis&theme=dark" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/Celery-101510?style=for-the-badge&logo=celery&logoColor=A4FF00"/>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-101510?style=for-the-badge&logo=postgresql&logoColor=A4FF00)
+![SQLite](https://img.shields.io/badge/SQLite-101510?style=for-the-badge&logo=sqlite&logoColor=A4FF00)
+![Redis](https://img.shields.io/badge/Redis-101510?style=for-the-badge&logo=redis&logoColor=A4FF00)
+![Celery](https://img.shields.io/badge/Celery-101510?style=for-the-badge&logo=celery&logoColor=A4FF00)
 
 ### `04` — Frontend
 
-<img src="https://skillicons.dev/icons?i=react,redux,tailwind&theme=dark" />
+![React](https://img.shields.io/badge/React-101510?style=for-the-badge&logo=react&logoColor=A4FF00)
+![Redux](https://img.shields.io/badge/Redux-101510?style=for-the-badge&logo=redux&logoColor=A4FF00)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-101510?style=for-the-badge&logo=tailwindcss&logoColor=A4FF00)
 
 ### `05` — Cloud & Deployment
 
-<img src="https://skillicons.dev/icons?i=aws,docker,nginx,linux&theme=dark" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/Gunicorn-101510?style=for-the-badge&logo=gunicorn&logoColor=A4FF00"/>
-<img src="https://img.shields.io/badge/Render-101510?style=for-the-badge&logo=render&logoColor=A4FF00"/>
-<img src="https://img.shields.io/badge/Railway-101510?style=for-the-badge&logo=railway&logoColor=A4FF00"/>
-<img src="https://img.shields.io/badge/Vercel-101510?style=for-the-badge&logo=vercel&logoColor=A4FF00"/>
+![AWS](https://img.shields.io/badge/AWS-101510?style=for-the-badge&logo=amazonaws&logoColor=A4FF00)
+![Docker](https://img.shields.io/badge/Docker-101510?style=for-the-badge&logo=docker&logoColor=A4FF00)
+![Nginx](https://img.shields.io/badge/Nginx-101510?style=for-the-badge&logo=nginx&logoColor=A4FF00)
+![Linux](https://img.shields.io/badge/Linux-101510?style=for-the-badge&logo=linux&logoColor=A4FF00)
+![Gunicorn](https://img.shields.io/badge/Gunicorn-101510?style=for-the-badge&logo=gunicorn&logoColor=A4FF00)
+![Render](https://img.shields.io/badge/Render-101510?style=for-the-badge&logo=render&logoColor=A4FF00)
+![Railway](https://img.shields.io/badge/Railway-101510?style=for-the-badge&logo=railway&logoColor=A4FF00)
+![Vercel](https://img.shields.io/badge/Vercel-101510?style=for-the-badge&logo=vercel&logoColor=A4FF00)
 
 ### `06` — Integrations & Developer Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode&theme=dark" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/Firebase_FCM-101510?style=for-the-badge&logo=firebase&logoColor=A4FF00"/>
-<img src="https://img.shields.io/badge/WebSockets-101510?style=for-the-badge&logo=socketdotio&logoColor=A4FF00"/>
-<img src="https://img.shields.io/badge/Razorpay-101510?style=for-the-badge&logo=razorpay&logoColor=A4FF00"/>
-<img src="https://img.shields.io/badge/Cloudinary-101510?style=for-the-badge&logo=cloudinary&logoColor=A4FF00"/>
-<img src="https://img.shields.io/badge/Swagger-101510?style=for-the-badge&logo=swagger&logoColor=A4FF00"/>
+![Git](https://img.shields.io/badge/Git-101510?style=for-the-badge&logo=git&logoColor=A4FF00)
+![GitHub](https://img.shields.io/badge/GitHub-101510?style=for-the-badge&logo=github&logoColor=A4FF00)
+![Postman](https://img.shields.io/badge/Postman-101510?style=for-the-badge&logo=postman&logoColor=A4FF00)
+![VS Code](https://img.shields.io/badge/VS_Code-101510?style=for-the-badge&logo=visualstudiocode&logoColor=A4FF00)
+![Firebase](https://img.shields.io/badge/Firebase_FCM-101510?style=for-the-badge&logo=firebase&logoColor=A4FF00)
+![WebSockets](https://img.shields.io/badge/WebSockets-101510?style=for-the-badge&logo=socketdotio&logoColor=A4FF00)
+![Razorpay](https://img.shields.io/badge/Razorpay-101510?style=for-the-badge&logo=razorpay&logoColor=A4FF00)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-101510?style=for-the-badge&logo=cloudinary&logoColor=A4FF00)
+![Swagger](https://img.shields.io/badge/Swagger-101510?style=for-the-badge&logo=swagger&logoColor=A4FF00)
 
 </div>
 
@@ -165,11 +165,11 @@ Multi-tenant academic management platform with hierarchical roles and integrated
 
 ## ◈ CURRENTLY EXPLORING
 
-<img src="https://img.shields.io/badge/LLM_FUNDAMENTALS-101510?style=flat-square&logo=openai&logoColor=A4FF00"/>
-<img src="https://img.shields.io/badge/EMBEDDINGS-101510?style=flat-square&logo=databricks&logoColor=A4FF00"/>
-<img src="https://img.shields.io/badge/RAG_SYSTEMS-101510?style=flat-square&logo=googlegemini&logoColor=A4FF00"/>
-<img src="https://img.shields.io/badge/TOOL_CALLING-101510?style=flat-square&logo=openai&logoColor=A4FF00"/>
-<img src="https://img.shields.io/badge/AGENTIC_AI-101510?style=flat-square&logo=probot&logoColor=A4FF00"/>
+![LLM](https://img.shields.io/badge/LLM_FUNDAMENTALS-101510?style=flat-square&logo=openai&logoColor=A4FF00)
+![Embeddings](https://img.shields.io/badge/EMBEDDINGS-101510?style=flat-square&logo=databricks&logoColor=A4FF00)
+![RAG](https://img.shields.io/badge/RAG_SYSTEMS-101510?style=flat-square&logo=googlegemini&logoColor=A4FF00)
+![Tool Calling](https://img.shields.io/badge/TOOL_CALLING-101510?style=flat-square&logo=openai&logoColor=A4FF00)
+![Agentic AI](https://img.shields.io/badge/AGENTIC_AI-101510?style=flat-square&logo=probot&logoColor=A4FF00)
 
 <br/><br/>
 
@@ -180,9 +180,6 @@ Multi-tenant academic management platform with hierarchical roles and integrated
 ---
 
 <div align="center">
-
-<!-- Animated Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:A4FF00,45:356D12,75:102509,100:000000&height=130&section=footer&animation=twinkling"/>
 
 **BUILD. LEARN. IMPROVE.**
 
